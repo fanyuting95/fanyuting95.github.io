@@ -68,7 +68,7 @@ h4.dannysmall{
 }
 
 .Dannyhi{
-    color: rgb(199, 84, 105);
+    color: rgb(122, 5, 27);
     font-weight: 900;
 }
 
@@ -81,7 +81,7 @@ h4.dannysmall{
 
 
 .dannyback{
-    background-image: url("../assets/img/S__39338213.jpg");
+    background-image: url("../assets/img/assets:img:bg5.jpg");
     background-size: cover ;
     background-repeat: no-repeat;
     background-blend-mode:luminosity;
@@ -90,7 +90,7 @@ h4.dannysmall{
 }
 
 .dannypink{
-    color: rgb(211, 78, 142);
+    color: rgb(255, 0, 123);
 }
 
 .dannyhigh{
