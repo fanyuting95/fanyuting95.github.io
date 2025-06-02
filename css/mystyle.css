@@ -2,16 +2,101 @@ p{
     color: black;
 }
 
-.dannycallme{
-    background-image: url("../assets/img/assets:img:bg3.jpg");
-    background-size: cover ;
-    background-repeat: no-repeat;
-}
-
-
 .dannybg{
     background-image: url("../assets/img/assets:img:bg4.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.danny-purple{
+    color: purple;
+}
+
+.dannycallmebg{
+    background-image: url("../assets/img/S__39322063.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.conan{
+    color:rgb(21, 67, 157) ;
+}
+
+a.dannylink{
+    padding: 0px 20px;
+    margin: 0px 0px 0px 20px;
+    border-radius: 0px 50px 0px 50px;
+    
+}
+
+a.dannylink:hover{
+    background-color: rgb(12, 194, 48);
+    color: black;
+}
+
+.Dannydiv{
+    background-color: violet ;
+    border: 2px solid rgb(24, 59, 60);
+    padding: 30px;  
+    border-radius: 10px;
+    width: 60%;
+    padding-bottom: 0px;
+}
+
+@media (max-width:991px) {
+ .jeffdiv {
+    width:90%;
+   margin: 0 auto;
+}
+}
+
+h4.dannysmall{
+    color: rgb(89, 3, 176);
+    font-size: 20px;
+}
+
+.dannycrop{
+    overflow: hidden;
+    margin:10px 5px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50px;
+}
+
+.Dannyserif{
+     font-family: "Noto Serif TC", serif;
+}
+
+.Dannyhi{
+    color: rgb(199, 84, 105);
+    font-weight: 900;
+}
+
+
+
+
+.dannygreen{
+    color: rgb(113, 28, 61);
+}
+
+
+.dannyback{
+    background-image: url("../assets/img/assets:img:bg3拷貝.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-blend-mode:luminosity;
+    background-color: #0000007b;
+    background-attachment: fixed;
+}
+
+.jeff-blue{
+    color: rgb(2, 63, 84);
+}
+
+.dannyhigh{
+    height: 600px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
 
