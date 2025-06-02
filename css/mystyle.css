@@ -9,11 +9,11 @@ p{
 }
 
 .danny-purple{
-    color: rgb(188, 37, 218);
+    color: rgb(210, 4, 251);
 }
 
 .dannycallmebg{
-    background-image: url("../assets/img/S__39322063.jpg");
+    background-image: url("../assets/img/S__39338214.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -30,7 +30,7 @@ a.dannylink{
 }
 
 a.dannylink:hover{
-    background-color: rgb(12, 194, 48);
+    background-color: rgb(216, 11, 11);
     color: black;
 }
 
@@ -81,7 +81,7 @@ h4.dannysmall{
 
 
 .dannyback{
-    background-image: url("../assets/img/assets:img:bg5.jpg");
+    background-image: url("../assets/img/S__39338213.jpg");
     background-size: cover ;
     background-repeat: no-repeat;
     background-blend-mode:luminosity;
