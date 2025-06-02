@@ -81,7 +81,7 @@ h4.dannysmall{
 
 
 .dannyback{
-    background-image: url("../assets/img/assets:img:bg3拷貝.jpg");
+    background-image: url("../assets/img/assets:img:bg5.jpg");
     background-size: cover ;
     background-repeat: no-repeat;
     background-blend-mode:luminosity;
@@ -107,4 +107,6 @@ h12{
     font-size: larger;
     color: black;
 }
-
+.danny-black{
+    color: black;
+}
