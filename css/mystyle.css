@@ -9,7 +9,7 @@ p{
 }
 
 .danny-purple{
-    color: purple;
+    color: rgb(188, 37, 218);
 }
 
 .dannycallmebg{
@@ -19,7 +19,7 @@ p{
 }
 
 .conan{
-    color:rgb(21, 67, 157) ;
+    color:aqua ;
 }
 
 a.dannylink{
@@ -44,7 +44,7 @@ a.dannylink:hover{
 }
 
 @media (max-width:991px) {
- .jeffdiv {
+ .Dannydiv {
     width:90%;
    margin: 0 auto;
 }
@@ -89,8 +89,8 @@ h4.dannysmall{
     background-attachment: fixed;
 }
 
-.jeff-blue{
-    color: rgb(2, 63, 84);
+.dannypink{
+    color: rgb(211, 78, 142);
 }
 
 .dannyhigh{
@@ -99,4 +99,12 @@ h4.dannysmall{
     object-fit: cover;
 }
 
+.dannyyellow{
+    color: yellow;
+}
+
+h12{
+    font-size: larger;
+    color: black;
+}
 
